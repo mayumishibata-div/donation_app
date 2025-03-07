@@ -7,5 +7,6 @@ class DonationsController < ApplicationController
   end
 
   def create
+    
   end
 end
